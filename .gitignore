@@ -1,4 +1,7 @@
 **/~.lock.*
 **/.idea
 **/.env
-**/node_modules/
+**/node_modules
+**/*-lock.json
+**/.vite
+**/__pycache__
